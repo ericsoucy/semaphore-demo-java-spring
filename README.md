@@ -1,5 +1,7 @@
 # Semaphore demo CI/CD pipeline using Java Spring
 
+Based on <https://dev.to/semaphore/docker-and-java-spring-boot-part-1-continuous-integration-1mfl>
+
 Example Spring Boot application and CI/CD pipeline showing how to run a Java
 project on [Semaphore 2.0](https://semaphoreci.com).
 
